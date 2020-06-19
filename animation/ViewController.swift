@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     let animationStartDate = Date()
     
     var currentTextIndex = 0
-    let paragraph = "sdwan montiro is a feature with a boxeses on the left and then u esee the rules and then the persoamfr sla fo each and pretty graphs and stuff and yeah u get to see the ivalues."
+    let paragraph = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     
     override func viewDidLoad() {
         super.viewDidLoad()
